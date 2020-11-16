@@ -1,3 +1,4 @@
+include ':00-basics'
 include ':02-button'
 include ':01-hello'
 include ':app'

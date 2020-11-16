@@ -1,4 +1,4 @@
-package io.jeongjaeeom.a01_hello
+package io.jeongjaeeom.a00_basics
 
 import org.junit.Test
 
@@ -12,11 +12,6 @@ import org.junit.Assert.*
 class ExampleUnitTest {
     @Test
     fun addition_isCorrect() {
-        assertEquals(4, 2 + 2)
-    }
-
-    @Test
-    fun `테스트하자`() {
         assertEquals(4, 2 + 2)
     }
 }
